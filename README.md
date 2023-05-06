@@ -1,9 +1,9 @@
 # Power-BI-Dashboard-of-Atliq-Sales
 A Power BI report which displays the yearly sales of Atliq Hardware from 2017 to 2018.
 
-The project exhibits the sales KPIs of the Atliq Hardware, India which sells its products in millions every years.
-To track down to see the sales and revenue KPIs of each year and drill down to each month of Atliq Hardware. 
-A Power BI report/dashboard is produced which reveals various insights about the sales of Atliq Hardware.
+This project exhibits the sales KPIs of the Atliq Hardware, India which sells its products in millions every year.
+To track down to see the sales and revenue KPIs of each year and to drill down to each month of the Atliq Hardware sales; 
+a Power BI report/dashboard is produced which reveals various insights about the sales of the Atliq Hardware.
 
 The report enabled to identity the following:
 1) Total revenue collected.
